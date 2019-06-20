@@ -4,7 +4,8 @@ These files are not an implementation of a whole project. However, these files s
 
 The parts number shows the difficulty.
 
-The greater the number, means more difficulty. I have covered all of the neural networks:CNN,RNN and FFNN. However, Please note that the work for this rep is in Tensor Flow 1.0
+The greater the number, means more difficulty. I have covered all of the neural networks:CNN,RNN and FFNN. , Please note that the work for this rep is both in Tensor Flow 1.0 and Tensorflow 2.0
+
 
 Moreover, the code files are my journey of learning tensorflow and deep learning,therefore I have not named files but numbered them therefore treat this rep as someone's journey into the world of deep learning.
 
